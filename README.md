@@ -1,4 +1,4 @@
-# SDHI-precipitiaotn
+# SDHI-precipitation
 Short Durarion High Intensity Precipitation CP-RCM
 
 Data used in the analyses can be downloaded using:
